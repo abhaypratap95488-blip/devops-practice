@@ -46,4 +46,7 @@ Terraform configuration validation and planning have been completed. The plan sh
 
 ## Repository
 [GitHub Repository](https://github.com/abhaypratap95488-blip/devops-practice)
+## Development Workflow
+
+Changes are developed in feature branches and reviewed using Pull Requests.
 
